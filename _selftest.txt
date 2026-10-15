@@ -1,1 +1,0 @@
-YOLEO pipeline self-test
